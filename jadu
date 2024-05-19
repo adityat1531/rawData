@@ -1,0 +1,228 @@
+{
+  "data": {
+    "Architect Engineer": [
+      {
+        "id": "WD101",
+        "name": "John Doe",
+        "location": "Maharashtra",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/men/1.jpg",
+          "alt": "Architecture"
+        }
+      },
+      {
+        "id": "DS201",
+        "name": "Jane Smith",
+        "location": "Karnataka",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/women/2.jpg",
+          "alt": "Sustainable Design"
+        }
+      },
+      {
+        "id": "ST301",
+        "name": "Alice Johnson",
+        "location": "Tamil Nadu",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/women/3.jpg",
+          "alt": "Urban Planning"
+        }
+      },
+      {
+        "id": "MD401",
+        "name": "Bob Brown",
+        "location": "Delhi",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/men/4.jpg",
+          "alt": "Interior Design"
+        }
+      },
+      {
+        "id": "DO501",
+        "name": "Carol White",
+        "location": "West Bengal",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/women/5.jpg",
+          "alt": "Landscape Architecture"
+        }
+      },
+      {
+        "id": "AE601",
+        "name": "Daniel Black",
+        "location": "Kerala",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/men/6.jpg",
+          "alt": "Green Buildings"
+        }
+      }
+    ],
+    "Civil Engineer": [
+      {
+        "id": "MK101",
+        "name": "David Green",
+        "location": "Uttar Pradesh",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/men/7.jpg",
+          "alt": "Construction Management"
+        }
+      },
+      {
+        "id": "LD201",
+        "name": "Emma Harris",
+        "location": "Gujarat",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/women/8.jpg",
+          "alt": "Geotechnical Engineering"
+        }
+      },
+      {
+        "id": "FN301",
+        "name": "Frank Clark",
+        "location": "Rajasthan",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/men/9.jpg",
+          "alt": "Structural Engineering"
+        }
+      },
+      {
+        "id": "OM401",
+        "name": "Grace Lewis",
+        "location": "Madhya Pradesh",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/women/10.jpg",
+          "alt": "Transportation Engineering"
+        }
+      },
+      {
+        "id": "PM501",
+        "name": "Henry Martinez",
+        "location": "Punjab",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/men/11.jpg",
+          "alt": "Water Resources Engineering"
+        }
+      },
+      {
+        "id": "CE601",
+        "name": "Isabel Robinson",
+        "location": "Bihar",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/women/12.jpg",
+          "alt": "Environmental Engineering"
+        }
+      }
+    ],
+    "Thekedaar": [
+      {
+        "id": "GD101",
+        "name": "Irene Thompson",
+        "location": "Haryana",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/women/13.jpg",
+          "alt": "Building"
+        }
+      },
+      {
+        "id": "UX201",
+        "name": "Jack Wilson",
+        "location": "Bihar",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/men/14.jpg",
+          "alt": "Masonry"
+        }
+      },
+      {
+        "id": "ID301",
+        "name": "Karen Scott",
+        "location": "Odisha",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/women/15.jpg",
+          "alt": "Carpentry"
+        }
+      },
+      {
+        "id": "FD401",
+        "name": "Larry King",
+        "location": "Kerala",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/men/16.jpg",
+          "alt": "Plastering"
+        }
+      },
+      {
+        "id": "TK501",
+        "name": "Maria Garcia",
+        "location": "Assam",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/women/17.jpg",
+          "alt": "Electrical Work"
+        }
+      },
+      {
+        "id": "TK601",
+        "name": "Nathan Lopez",
+        "location": "Telangana",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/men/18.jpg",
+          "alt": "Plumbing"
+        }
+      }
+    ],
+    "Painter": [
+      {
+        "id": "LC101",
+        "name": "Mary Walker",
+        "location": "Assam",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/women/19.jpg",
+          "alt": "House Painting"
+        }
+      },
+      {
+        "id": "LF201",
+        "name": "Nancy Hall",
+        "location": "Telangana",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/women/20.jpg",
+          "alt": "Wall Painting"
+        }
+      },
+      {
+        "id": "LT301",
+        "name": "Oliver Adams",
+        "location": "Jharkhand",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/men/21.jpg",
+          "alt": "Decorative Painting"
+        }
+      },
+      {
+        "id": "PA401",
+        "name": "Patricia Wright",
+        "location": "Goa",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/women/22.jpg",
+          "alt": "Murals"
+        }
+      },
+      {
+        "id": "PA501",
+        "name": "Quentin Hill",
+        "location": "Himachal Pradesh",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/men/23.jpg",
+          "alt": "Portrait Painting"
+        }
+      },
+      {
+        "id": "PA601",
+        "name": "Rachel Scott",
+        "location": "Chhattisgarh",
+        "image": {
+          "url": "https://randomuser.me/api/portraits/women/24.jpg",
+          "alt": "Canvas Painting"
+        }
+      }
+    ]
+  }
+}
