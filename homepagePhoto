@@ -1,40 +1,40 @@
-const imageData = {
-  professions: [
+{
+  "professions": [
     {
-      category: "Home",
-      url: "https://app.gemoo.com/share/image-annotation/650855587813404672?codeId=v67QRz0mxOWJl&origin=imageurlgenerator&card=650855584579592192"
+      "category": "Home",
+      "url": "https://app.gemoo.com/share/image-annotation/650855587813404672?codeId=v67QRz0mxOWJl&origin=imageurlgenerator&card=650855584579592192"
     },
     {
-      category: "Thekeedar",
-      url: "https://app.gemoo.com/share/image-annotation/650853608252903424?codeId=DWlrb053KknmQ&origin=imageurlgenerator&card=650853605774069760"
+      "category": "Thekeedar",
+      "url": "https://app.gemoo.com/share/image-annotation/650853608252903424?codeId=DWlrb053KknmQ&origin=imageurlgenerator&card=650853605774069760"
     },
     {
-      category: "Electrician",
-      url: "https://app.gemoo.com/share/image-annotation/650854231014711296?codeId=DGWbdAQe56epQ&origin=imageurlgenerator&card=650854228162654208"
+      "category": "Electrician",
+      "url": "https://app.gemoo.com/share/image-annotation/650854231014711296?codeId=DGWbdAQe56epQ&origin=imageurlgenerator&card=650854228162654208"
     },
     {
-      category: "Painter",
-      url: "https://app.gemoo.com/share/image-annotation/650854990649364480?codeId=DWlr0Z2gb3yw6&origin=imageurlgenerator&card=650854987910483968"
+      "category": "Painter",
+      "url": "https://app.gemoo.com/share/image-annotation/650854990649364480?codeId=DWlr0Z2gb3yw6&origin=imageurlgenerator&card=650854987910483968"
     },
     {
-      category: "Marble Worker",
-      url: "https://app.gemoo.com/share/image-annotation/650855355067281408?codeId=DGWbdK2l0aZVq&origin=imageurlgenerator&card=650855352240320512"
+      "category": "Marble Worker",
+      "url": "https://app.gemoo.com/share/image-annotation/650855355067281408?codeId=DGWbdK2l0aZVq&origin=imageurlgenerator&card=650855352240320512"
     },
     {
-      category: "Plumber",
-      url: "https://app.gemoo.com/share/image-annotation/650855587813404672?codeId=v67QRz0mxOWJl&origin=imageurlgenerator&card=650855584579592192"
+      "category": "Plumber",
+      "url": "https://app.gemoo.com/share/image-annotation/650855587813404672?codeId=v67QRz0mxOWJl&origin=imageurlgenerator&card=650855584579592192"
     },
     {
-      category: "Civil engg",
-      url: "https://app.gemoo.com/share/image-annotation/650855826523828224?codeId=M07gxAka5lp1k&origin=imageurlgenerator&card=650855823768170496"
+      "category": "Civil engg",
+      "url": "https://app.gemoo.com/share/image-annotation/650855826523828224?codeId=M07gxAka5lp1k&origin=imageurlgenerator&card=650855823768170496"
     },
     {
-      category: "Architect engg",
-      url: "https://app.gemoo.com/share/image-annotation/650856033210736640?codeId=vzR947WnLWXwn&origin=imageurlgenerator&card=650856030308278272"
+      "category": "Architect engg",
+      "url": "https://app.gemoo.com/share/image-annotation/650856033210736640?codeId=vzR947WnLWXwn&origin=imageurlgenerator&card=650856030308278272"
     },
     {
-      category: "Interior designer",
-      url: "https://app.gemoo.com/share/image-annotation/650856317534220288?codeId=Pal5qw3d0ddbQ&origin=imageurlgenerator&card=650856314728230912"
+      "category": "Interior designer",
+      "url": "https://app.gemoo.com/share/image-annotation/650856317534220288?codeId=Pal5qw3d0ddbQ&origin=imageurlgenerator&card=650856314728230912"
     }
   ]
 }
