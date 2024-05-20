@@ -3,7 +3,7 @@ const imageData = {
     {
       category: "Home",
       url: "https://app.gemoo.com/share/image-annotation/650855587813404672?codeId=v67QRz0mxOWJl&origin=imageurlgenerator&card=650855584579592192"
-    }
+    },
     {
       category: "Thekeedar",
       url: "https://app.gemoo.com/share/image-annotation/650853608252903424?codeId=DWlrb053KknmQ&origin=imageurlgenerator&card=650853605774069760"
