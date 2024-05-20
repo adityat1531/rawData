@@ -1,12 +1,16 @@
 const imageData = {
   professions: [
     {
+      category: "Home",
+      url: "https://app.gemoo.com/share/image-annotation/650855587813404672?codeId=v67QRz0mxOWJl&origin=imageurlgenerator&card=650855584579592192"
+    }
+    {
       category: "Thekeedar",
       url: "https://app.gemoo.com/share/image-annotation/650853608252903424?codeId=DWlrb053KknmQ&origin=imageurlgenerator&card=650853605774069760"
     },
     {
       category: "Electrician",
-      "url": "https://app.gemoo.com/share/image-annotation/650854231014711296?codeId=DGWbdAQe56epQ&origin=imageurlgenerator&card=650854228162654208"
+      url: "https://app.gemoo.com/share/image-annotation/650854231014711296?codeId=DGWbdAQe56epQ&origin=imageurlgenerator&card=650854228162654208"
     },
     {
       category: "Painter",
@@ -14,11 +18,11 @@ const imageData = {
     },
     {
       category: "Marble Worker",
-      "url": "https://app.gemoo.com/share/image-annotation/650855355067281408?codeId=DGWbdK2l0aZVq&origin=imageurlgenerator&card=650855352240320512"
+      url: "https://app.gemoo.com/share/image-annotation/650855355067281408?codeId=DGWbdK2l0aZVq&origin=imageurlgenerator&card=650855352240320512"
     },
     {
       category: "Plumber",
-      "url": "https://app.gemoo.com/share/image-annotation/650855587813404672?codeId=v67QRz0mxOWJl&origin=imageurlgenerator&card=650855584579592192"
+      url: "https://app.gemoo.com/share/image-annotation/650855587813404672?codeId=v67QRz0mxOWJl&origin=imageurlgenerator&card=650855584579592192"
     },
     {
       category: "Civil engg",
